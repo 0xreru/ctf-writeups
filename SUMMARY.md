@@ -12,6 +12,7 @@
       * [PIE TIME](ctf-writeups-by-0xreru/picoctf/binary-exploitation/pie-time.md)
     * [Cryptography](ctf-writeups-by-0xreru/picoctf/cryptography.md)
     * [General Skills](ctf-writeups-by-0xreru/picoctf/general-skills.md)
+  * [WebVerse Labs](ctf-writeups/webverse-labs.md)
   * [TryHackMe Labs](ctf-writeups/tryhackme-labs/README.md)
     * [Basic Pentesting](ctf-writeups/tryhackme-labs/basic-pentesting.md)
     * [Overpass](ctf-writeups/tryhackme-labs/overpass.md)
